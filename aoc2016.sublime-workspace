@@ -1,0 +1,647 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"read",
+				"read_args"
+			],
+			[
+				"sys",
+				"sysargs"
+			],
+			[
+				"uplo",
+				"upload_to_SQL"
+			],
+			[
+				"agg",
+				"agg_to_SQL"
+			],
+			[
+				"sta",
+				"START_MOLECULE_STR\tstatement"
+			],
+			[
+				"START",
+				"START_MOLECULE_STR\tstatement"
+			],
+			[
+				"T",
+				"TRANSFORMATIONS\tstatement"
+			],
+			[
+				"tokeni",
+				"tokenized_target_molecule\tstatement"
+			],
+			[
+				"curren",
+				"current_record"
+			],
+			[
+				"BOS",
+				"BOSS_START_HP"
+			],
+			[
+				"PLA",
+				"PLAYER_START_HP"
+			],
+			[
+				"does",
+				"does_player_survive"
+			],
+			[
+				"curre",
+				"current_state"
+			],
+			[
+				"count",
+				"count_on_lights_in_grid"
+			],
+			[
+				"num",
+				"num_neighbors_on"
+			],
+			[
+				"code",
+				"code_counter"
+			],
+			[
+				"char",
+				"char_counter"
+			],
+			[
+				"len",
+				"length_codeline"
+			],
+			[
+				"hex",
+				"hex_chars"
+			],
+			[
+				"puzzle",
+				"puzzle_input"
+			],
+			[
+				"puzz",
+				"puzzle_input"
+			],
+			[
+				"list",
+				"list_of_instructions"
+			],
+			[
+				"for",
+				"for\tfor - Yield"
+			],
+			[
+				"ages_",
+				"ages_test"
+			],
+			[
+				"net_",
+				"net_worths_test"
+			],
+			[
+				"write_",
+				"write_trueresults"
+			],
+			[
+				"INSERT",
+				"INSERT_STATEMENT\tstatement"
+			],
+			[
+				"im",
+				"ifmain\tif __name__ == '__main__'"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "day07-2.py",
+			"settings":
+			{
+				"buffer_size": 2960,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "day07input.txt",
+			"settings":
+			{
+				"buffer_size": 179774,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 400.0,
+		"last_filter": "ana",
+		"selected_items":
+		[
+			[
+				"ana",
+				"Anaconda: Disable linting on this file"
+			],
+			[
+				"color",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"scala",
+				"ScalaFormat: Format Current File"
+			],
+			[
+				"sublime",
+				"SublimeREPL: Python"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"anaconda",
+				"Anaconda: Disable linting on this file"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 457.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/cwun/workspace/adventofcode2016"
+	],
+	"file_history":
+	[
+		"/Users/cwun/workspace/adventofcode2016/day07-2test.py",
+		"/Users/cwun/Library/Application Support/Sublime Text 3/Packages/GoSublime/USAGE.md",
+		"/Users/cwun/workspace/adventofcode2016/day07-1.py",
+		"/Users/cwun/workspace/adventofcode2016/day06-2.py",
+		"/Users/cwun/workspace/adventofcode2016/day06input.txt",
+		"/Users/cwun/workspace/adventofcode2016/day05-2.py",
+		"/Users/cwun/workspace/adventofcode2016/day04input.txt",
+		"/Users/cwun/workspace/adventofcode2016/day03-1.py",
+		"/Users/cwun/workspace/adventofcode2016/day04-1.py",
+		"/Users/cwun/workspace/adventofcode2016/day2-1.py",
+		"/Users/cwun/workspace/adventofcode2016/day1-1.py",
+		"/Users/cwun/workspace/adventofcode2016/day04-2.py",
+		"/Users/cwun/workspace/adventofcode2016/day03input.txt",
+		"/Users/cwun/workspace/adventofcode2016/day2-2.py",
+		"/Users/cwun/workspace/adventofcode2016/day02input.txt",
+		"/Users/cwun/Desktop/pull  the plug testing.txt",
+		"/Users/cwun/Desktop/pizza.txt",
+		"/Users/cwun/Desktop/oct2016.todo",
+		"/Users/cwun/tmp/minracklimit.py",
+		"/Users/cwun/tmp/racks.txt",
+		"/Users/cwun/Desktop/udp 522.2a from 5H.txt",
+		"/Users/cwun/workspace/source/science/src/python/twitter/dctools/ziz/cwun/cql_util.py",
+		"/Users/cwun/workspace/source/science/src/python/twitter/dctools/ziz/cwun/SQL_util.py",
+		"/Users/cwun/workspace/source/science/src/python/twitter/dctools/ziz/cwun/TESTAURORA",
+		"/Users/cwun/workspace/source/science/src/python/twitter/dctools/ziz/cwun/database_util.py",
+		"/Users/cwun/workspace/source/science/src/python/twitter/dctools/ziz/cwun/testing.py",
+		"/Users/cwun/workspace/source/science/src/python/twitter/dctools/ziz/cwun/audubon_util.py",
+		"/Users/cwun/workspace/source/science/src/python/twitter/dctools/ziz/cwun/BUILD",
+		"/Users/cwun/workspace/source/science/tests/python/twitter/dctools/ziz/cwun/testing.py",
+		"/Users/cwun/workspace/source/science/tests/python/twitter/dctools/ziz/cwun/BUILD",
+		"/Users/cwun/workspace/log.txt",
+		"/Users/cwun/tmp/perf.txt",
+		"/Users/cwun/workspace/source/science/src/python/twitter/dctools/ziz/cwun/get_power.py",
+		"/Users/cwun/Google Drive/workspace/scripts/example cql queries.txt",
+		"/Users/cwun/Documents/stuff/Strategic Analytics Manager, Infra Data Center.txt",
+		"/Users/cwun/workspace/source/3rdparty/python/requirements.txt",
+		"/Users/cwun/workspace/source/science/src/python/twitter/dctools/ziz/cwun/GROUPS",
+		"/Users/cwun/workspace/source/science/src/python/twitter/dctools/ziz/cwun/main.py",
+		"/Users/cwun/workspace/cronjob.sublime-project",
+		"/Users/cwun/Documents/stuff/Manager, Infrastructure Strategy.txt",
+		"/Users/cwun/Desktop/aug2016.todo",
+		"/Users/cwun/Documents/stuff/analytics PM HW.txt",
+		"/Users/cwun/Documents/stuff/TPM DC ops.txt",
+		"/Users/cwun/Documents/stuff/DC Biz op PM",
+		"/Users/cwun/workspace/hardware_replacement/36x f2hy in DCs.txt",
+		"/Users/cwun/workspace/udacity/ud120-projects/pca/eigenfaces.py",
+		"/Users/cwun/workspace/udacity/NB_basic_Classifying/class_vis.py",
+		"/Users/cwun/workspace/sklearn_pycon2015/notebooks/fig_code/helpers.py",
+		"/Users/cwun/workspace/sklearn_pycon2015/notebooks/fig_code/data.py",
+		"/Users/cwun/workspace/sklearn_pycon2015/notebooks/fig_code/figures.py",
+		"/Users/cwun/workspace/sklearn_pycon2015/notebooks/fig_code/ML_flow_chart.py",
+		"/Users/cwun/workspace/sklearn_pycon2015/notebooks/fig_code/svm_gui.py",
+		"/Users/cwun/workspace/sklearn_pycon2015/notebooks/fig_code/linear_regression.py",
+		"/Users/cwun/workspace/udacity/ud120-projects/svm/svm_author_id.py",
+		"/Users/cwun/workspace/cronjob/BUILD",
+		"/Users/cwun/Google Drive/workspace/scripts/allhostsSMF.txt",
+		"/Users/cwun/Google Drive/workspace/scripts/aggregate_kW_for_SQL.py",
+		"/Users/cwun/Google Drive/workspace/scripts/get_CDU_power_data.py",
+		"/Users/cwun/Google Drive/workspace/scripts/get_cpu_usage_by_rack.py",
+		"/Users/cwun/workspace/hardware_replacement/aggregate_CPU_for_SQL.py",
+		"/Users/cwun/workspace/scala class/helloakka/src/main/scala/actors.scala",
+		"/Users/cwun/Google Drive/workspace/scripts/aggregate_CPU_for_SQL.py",
+		"/Users/cwun/workspace/scala class/helloakka/build.sbt",
+		"/Users/cwun/workspace/scala class/Reverse/src/main/scala/ReverseList.scala",
+		"/Users/cwun/workspace/scala class/Reverse/build.sbt",
+		"/Users/cwun/workspace/scala class/actors.scala",
+		"/Users/cwun/Google Drive/workspace/scripts/aggregate_for_kW.py",
+		"/Users/cwun/workspace/upsg21/aggregate_kW_for_SQL.py",
+		"/Users/cwun/workspace/upsg21/rackdata.csv",
+		"/Users/cwun/workspace/upsg21/upsg21racks.txt",
+		"/Users/cwun/workspace/rustlearning/main.rs",
+		"/Users/cwun/workspace/adventofcode/advent_rust/Cargo.toml",
+		"/Users/cwun/workspace/adventofcode/day3-1.scala",
+		"/Users/cwun/workspace/adventofcode/day3-2.scala",
+		"/Users/cwun/workspace/adventofcode/day1input.txt",
+		"/Users/cwun/workspace/adventofcode/day3-1.py",
+		"/Users/cwun/workspace/adventofcode/day2-1.scala",
+		"/Users/cwun/workspace/adventofcode/day1-2.scala",
+		"/Users/cwun/workspace/adventofcode/day1-1.scala",
+		"/Users/cwun/workspace/adventofcode/day1-1.py",
+		"/Users/cwun/workspace/adventofcode/advent_rust/src/main.rs",
+		"/Users/cwun/workspace/adventofcode/day12-1.py",
+		"/Users/cwun/workspace/adventofcode/day23-1.py",
+		"/Users/cwun/workspace/adventofcode/day13-1.py",
+		"/Users/cwun/workspace/adventofcode/day10-1.scala",
+		"/Users/cwun/workspace/adventofcode/rust_advent/Cargo.toml",
+		"/Users/cwun/workspace/adventofcode/rust_advent/src/lib.cd",
+		"/Users/cwun/workspace/adventofcode/day1-1.rs",
+		"/Users/cwun/workspace/rustlearning/hello_cargo/src/day1-1.rs",
+		"/Users/cwun/workspace/adventofcode/day20-1.scala",
+		"/Users/cwun/workspace/adventofcode/day20-1.cpp",
+		"/Users/cwun/workspace/adventofcode/day10-1.cpp",
+		"/Users/cwun/workspace/adventofcode/day20-1v3.py",
+		"/Users/cwun/workspace/adventofcode/puzzle1.py",
+		"/Users/cwun/workspace/adventofcode/day12input.txt",
+		"/Users/cwun/workspace/adventofcode/day10-1.py",
+		"/Users/cwun/workspace/adventofcode/day10-2.py",
+		"/Users/cwun/workspace/adventofcode/day10-2.scala",
+		"/Users/cwun/workspace/adventofcode/day6-2.scala",
+		"/Users/cwun/workspace/adventofcode/day6input.txt",
+		"/Users/cwun/workspace/adventofcode/day6input_test.txt",
+		"/Users/cwun/workspace/adventofcode/day6-1.py",
+		"/Users/cwun/Library/Application Support/Sublime Text 3/Packages/Anaconda/Anaconda.sublime-settings",
+		"/Users/cwun/workspace/adventofcode/secretaryproblem.py",
+		"/Users/cwun/workspace/adventofcode/day8-1.py",
+		"/Users/cwun/workspace/adventofcode/day8input.txt",
+		"/Users/cwun/workspace/adventofcode/day7-1.py",
+		"/Users/cwun/workspace/adventofcode/day5-1.scala",
+		"/Users/cwun/workspace/adventofcode/day5input.txt",
+		"/Users/cwun/workspace/adventofcode/day5-2.scala",
+		"/Users/cwun/workspace/adventofcode/day5-1.py",
+		"/Users/cwun/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/cwun/workspace/adventofcode/day6-1.scala",
+		"/Users/cwun/workspace/adventofcode/day4-2.py",
+		"/Users/cwun/workspace/adventofcode/day4-2.scala",
+		"/Users/cwun/workspace/adventofcode/day2-2.scala",
+		"/Users/cwun/workspace/adventofcode/day2.py",
+		"/Users/cwun/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/cwun/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/cwun/Library/Application Support/Sublime Text 3/Packages/User/JSON.sublime-settings",
+		"/Users/cwun/workspace/adventofcode/day19input.txt",
+		"/Users/cwun/workspace/adventofcode/day19-2a.py",
+		"/Users/cwun/workspace/adventofcode/day24input.txt",
+		"/Users/cwun/workspace/adventofcode/day24-2.py",
+		"/Users/cwun/workspace/adventofcode/day19-1.py",
+		"/Users/cwun/workspace/adventofcode/day25-1.py",
+		"/Users/cwun/workspace/adventofcode/day22-2.py",
+		"/Users/cwun/workspace/random/cygjATL.txt"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"482",
+			"Quirks",
+			"os.",
+			"logging",
+			"set_of",
+			"atl",
+			"smf",
+			"power.csv",
+			"print(",
+			"csv",
+			"logging",
+			"work",
+			"time()",
+			"time\t",
+			"time",
+			"print",
+			"rack_name",
+			"cql",
+			"audubon_util.",
+			"IPython.html.widgets",
+			"item",
+			"santaY",
+			"santaX",
+			"direction",
+			"santaX",
+			"santa",
+			"super+shift+tab",
+			"super+shift",
+			"super",
+			"cmd",
+			"tab",
+			"start_molecule",
+			"transformations",
+			"start_molecule",
+			"transformations",
+			"target_molecule",
+			"transformations",
+			"tokenized_target_molecule",
+			"start_molecule",
+			"templist",
+			"SPELLS[\"Poison\"]",
+			"SPELLS[\"Drain\"]",
+			"SPELLS[\"Recharge\"]",
+			"SPELLS[\"Shield\"]",
+			"SPELLS[\"Magic Missile\"]",
+			"MIN_SPEND",
+			"min_spend",
+			", current_spend",
+			"poison_status",
+			"0",
+			"96",
+			"[u'green', [{u'a': 77, u'c': u'yellow', u'b': 144, u'e': u'green', u'd': {u'a': u'yellow', u'c': u'violet', u'b': u'violet'}, u'g': {u'a': [u'yellow', -48, 72, 87, {u'a': 101, u'c': 123, u'b': 87, u'e': u'violet', u'd': u'red', u'f': 88}, {u'a': 1, u'c': 2, u'b': u'green', u'e': u'red', u'd': u'violet', u'g': u'blue', u'f': 170}, u'orange', 171, 162]}, u'f': u'orange', u'i': u'orange', u'h': u'red'}, 49, [{u'a': -49, u'c': {u'a': -44, u'c': 117, u'b': {u'a': 172, u'c': 197, u'b': 106, u'e': -17, u'd': u'green', u'g': u'violet', u'f': -10, u'h': 53}, u'e': u'violet', u'd': 115, u'g': u'red', u'f': u'orange', u'h': 194}, u'b': [u'violet', u'orange', u'blue']}], u'green']] ",
+			"\\\\\\",
+			"\\\\\\x",
+			"\\x",
+			"santa",
+			"b",
+			"a",
+			"check",
+			"measurementsPerLog",
+			"1",
+			"2",
+			"1",
+			"myPath",
+			"6.584",
+			"6.4",
+			"6.0",
+			"7.0",
+			"6.0",
+			"6.6",
+			"6.65",
+			"item",
+			"filename",
+			"-cdu2:amps1\"",
+			"-cdu2:amps2\"",
+			"-cdu2:amps3\"",
+			"-cdu1:amps3\"",
+			"-cdu1:amps2\"",
+			"-cdu1:amps1\"",
+			"\"ts(sum, dc.power, *, amps*): ",
+			"timestamp,\"ts(sum, dc.power, *, amps*): ",
+			"39669",
+			"37290",
+			"head"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"return",
+			"last_entry_dt",
+			"Al",
+			"",
+			"8-10-12",
+			"2-4-6"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "day07-2.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2960,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 841.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 1,
+					"file": "day07input.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 179774,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								793,
+								799
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 42100.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 30.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.MarGo-output":
+	{
+		"height": 104.0
+	},
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "aoc2016.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 206.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
